@@ -16,7 +16,7 @@ driving.search(p1, p2);
 
 ## 效果
 
-![图1](../../images/16.png)
+![图1](https://www.chenrui.ink/images/16.png)
 
 
 ## 代码实现
